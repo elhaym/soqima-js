@@ -16,5 +16,4 @@ La logique pour afficher l'itinéraire d'un client et des voyageurs d'un dossier
 ## Technologies utilisées 
 
 React.js / Javascript / SASS / Axios / Material UI Icons / Bootstrap 4 / 
-# soqima-js
-# soqima-js
+
